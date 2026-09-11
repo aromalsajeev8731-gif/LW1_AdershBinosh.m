@@ -1,6 +1,6 @@
-% Name: Adersh Binosh
-% Surname: [Your Surname]
-% Group: [Your Group]
+% Name: Adersh 
+% Surname: [vazhayil Binosh]
+% Group: [EDIFu25\1]
 % Date: 2026-09-11
 
 %% MANDATORY TASK
