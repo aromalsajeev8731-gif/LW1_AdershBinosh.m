@@ -19,7 +19,7 @@ ylabel('F_1 [o-] i F_2 [-x-]')
 
 %% COMPLEMENTARY TASK
 % 1. Student ID Last Digit (Replace 5 with your actual last digit)
-N = 5; 
+N = 4; 
 
 % 2. Vector with step 0.5
 v = (N+1):0.5:(N+4);
